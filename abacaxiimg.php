@@ -1,0 +1,1 @@
+<img src="images/abacaxiGran.png" title="Abacaxi" alt="Abacaxi" />
