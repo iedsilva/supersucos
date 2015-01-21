@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-	<title>Super Sucos</title>
+	<title>Super Sucos - Edit</title>
 	<?php include "head.php" ;?>
 </head>
 <body>	
